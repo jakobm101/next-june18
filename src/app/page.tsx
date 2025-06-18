@@ -4,8 +4,8 @@ import CenterContainer from "@/components/CenterContainer";
 export default function Home() {
   return (
     <>
-      <CenterContainer />
       <CenterGridLines />
+      <CenterContainer />
     </>
   );
 }
